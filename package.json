@@ -1,0 +1,14 @@
+{
+  "name": "decrypt-nodered-credentials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "decrypt": "node index.js"
+  },
+  "author": "Jan Fahrnholz",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
