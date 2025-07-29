@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "decrypt": "node index.js"
+    "decrypt": "node index.js",
+    "encrypt": "node encrypt.js",
+    "fix-json": "node fix-json.js"
   },
   "author": "Jan Fahrnholz",
   "license": "ISC",
