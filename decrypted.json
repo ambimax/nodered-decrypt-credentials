@@ -1,0 +1,70 @@
+{
+  "9c992826587e38fb": {
+    "username": "${RABBITMQ_USERNAME}",
+    "password": "${RABBITMQ_PASSWORD}"
+  },
+  "d108ef8386585bd4": {
+    "username": "${SFTP_STORAGE_USERNAME}",
+    "password": "${SFTP_STORAGE_PASSWORD}"
+  },
+  "958113a0c38e7d47": {
+    "apiUser": "${SHOPWARE_API_USER}",
+    "apiKey": "${SHOPWARE_API_KEY}"
+  },
+  "91bb45f29138d207": {
+    "apiUser": "${AKENEO_API_USER}",
+    "apiKey": "${AKENEO_API_KEY}",
+    "username": "${AKENEO_API_AUTH_USER}",
+    "password": "${AKENEO_API_AUTH_PASSWORD}"
+  },
+  "b0eeb9f150d4fe05": {
+    "apiUser": "${AKENEO_READ_API_USER}",
+    "apiKey": "${AKENEO_READ_API_KEY}",
+    "username": "${AKENEO_READ_API_AUTH_USER}",
+    "password": "${AKENEO_READ_API_AUTH_PASSWORD}"
+  },
+  "f777ef6096bb03a3": {
+    "accessKey": "${S3_STORAGE_ACCESS_KEY_ID}",
+    "secretKey": "${S3_STORAGE_SECRET_ACCESS_KEY}"
+  },
+  "4bed84e0345fa3c6": {
+    "username": "${GALAXUS_SFTP_STORAGE_USERNAME}",
+    "password": "${GALAXUS_SFTP_STORAGE_PASSWORD}"
+  },
+  "d7d79196a222081f": {
+    "token": "${SLACK_INTEGRATION_TOKEN}"
+  },
+  "adecf55f6d9798a7": {
+    "username": "${SHC_API_USER}",
+    "password": "${SHC_API_KEY}"
+  },
+  "be64b722e0e8a3ae": {
+    "userid": "${EMAIL_SENDER_ACCOUNT}",
+    "password": "${EMAIL_SENDER_PASSWORD}"
+  },
+  "0f5f9f200713d937": {
+    "username": "${BRACK_SFTP_STORAGE_USERNAME}",
+    "password": "${BRACK_SFTP_STORAGE_PASSWORD}"
+  },
+  "0de4b3ff2229ee47": {
+    "api": "${OPEN_AI_TOKEN}"
+  },
+  "93ebd0833d76ac16": {
+    "apiUser": "${AKENEO_WRITE_API_USER}",
+    "apiKey": "${AKENEO_WRITE_API_KEY}",
+    "username": "${AKENEO_WRITE_API_AUTH_USER}",
+    "password": "${AKENEO_WRITE_API_AUTH_PASSWORD}"
+  },
+  "2c981b019fc01754": {
+    "apiUser": "${AKENEO_SHC_IMPORT_WRITE_API_USERNAME}",
+    "apiKey": "${AKENEO_SHC_IMPORT_WRITE_API_KEY}",
+    "username": "${AKENEO_SHC_IMPORT_WRITE_USERNAME}",
+    "password": "${AKENEO_SHC_IMPORT_WRITE_PASSWORD}"
+  },
+  "decd0670c85a8eab": {
+    "apiUser": "${AKENEO_AI_TRANSLATION_WRITE_API_USERNAME}",
+    "apiKey": "${AKENEO_AI_TRANSLATION_WRITE_API_KEY}",
+    "username": "${AKENEO_AI_TRANSLATION_WRITE_AUTH_USE}",
+    "password": "${AKENEO_AI_TRANSLATION_WRITE_AUTH_PASSWORD}"
+  }
+}
